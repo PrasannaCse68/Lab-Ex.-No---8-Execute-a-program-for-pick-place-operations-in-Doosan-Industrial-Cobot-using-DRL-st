@@ -40,9 +40,9 @@ Procedure:
 
 
 ## Program 
-// Roll no:212221040073
+// Roll no:212221040129
 
-//Name:KARTHICK RAJ M
+//Name:PRASANNA G R
 MoveJ ................
 
 ## output : 
